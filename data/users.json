@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "115c6b76-d699-4255-bfcd-a614c6e04bc6",
+      "firstName": "Obrien Troy",
+      "lastName": "Dangan",
+      "middleInitial": "M",
+      "age": "22",
+      "gender": "M",
+      "civilStatus": "Single",
+      "email": "danganobrientroy@gmail.com"
+    }
+  ]
+}
