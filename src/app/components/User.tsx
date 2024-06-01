@@ -17,8 +17,6 @@ import ModalDelete from "./modalDelete";
 
 interface UserProps {
     user: IUser;
-    modalOpen: boolean;
-    setModalOpen: (open: boolean) => boolean | void;
 }
 
 const User: React.FC<UserProps> = ({ user }) => {
