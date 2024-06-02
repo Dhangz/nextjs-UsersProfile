@@ -9,6 +9,16 @@
       "gender": "M",
       "civilStatus": "Single",
       "email": "danganobrientroy@gmail.com"
+    },
+    {
+      "id": "c46b40cc-5256-462e-ae8a-ca61fd182af8",
+      "firstName": "Bj Zenger",
+      "lastName": "Dangan",
+      "middleInitial": "M",
+      "age": "20",
+      "gender": "M",
+      "civilStatus": "Married",
+      "email": "bjdangan@gmail.com"
     }
   ]
 }

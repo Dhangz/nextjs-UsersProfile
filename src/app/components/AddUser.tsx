@@ -178,7 +178,7 @@ const AddUser = () => {
           </Box>
           <br />
           <DialogContent className="flex justify-end" dividers>
-            <Button variant="text" size="small" type="submit">Add User</Button>
+            <Button variant="outlined" size="small" type="submit">Add User</Button>
           </DialogContent>
         </Box>
       </Modal>

@@ -8,10 +8,8 @@ export const getAllUsers = async (): Promise<IUser[]> => {
     return users;
 }
 
-export const getUserById = async (id: string): Promise<IUser> => {
-    const res = await fetch(`${baseUrl}/users/${id}`, {
-        method: 'GET',
-    });
+export const viewUser = async (id: string): Promise<IUser> => {
+    const res = await fetch(`${baseUrl}/users/${id}`);
     const user = await res.json();
     return user;
 }
